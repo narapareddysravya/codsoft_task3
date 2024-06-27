@@ -8,7 +8,7 @@ function calculate() {
     {
         display.value = eval(display.value);
     } 
-    catch(error) 
+    catch(error)  
     {
         alert('Invalid expression');
         clearDisplay();
